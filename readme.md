@@ -2,16 +2,12 @@
 
 This repository contains answers to various assignments related to the **Fundamentals of Internet of Things (IoT)**. Each assignment covers specific topics, concepts, and applications of IoT. Below is an overview of the assignments included in this repository.
 
----
-
 ## Table of Contents
 
 1. [Assignment 1 - IoT Features and Operations](#assignment-1---iot-features-and-operations)
 2. [Assignment 2 - IoT Devices and Components](#assignment-2---iot-devices-and-components)
 3. [Assignment 3 - IoT Communication and Protocols](#assignment-3---iot-communication-and-protocols)
 4. [Assignment 4 & 5 - Raspberry Pi and IoT Applications](#assignment-4--5---raspberry-pi-and-iot-applications)
-
----
 
 ## Assignment 1 - IoT Features and Operations
 
@@ -30,8 +26,6 @@ This assignment focuses on the basic features, operations, and architecture of I
 
 [Read Full Assignment Assignment - 1](./assignment1.md)
 
----
-
 ## Assignment 2 - IoT Devices and Components
 
 This assignment explores the hardware and software components used in IoT systems.
@@ -47,8 +41,6 @@ This assignment explores the hardware and software components used in IoT system
 - Actuators in IoT: types, advantages, and disadvantages
 
 [Read Full Assignment Assignment - 2](./assignment2.md)
-
----
 
 ## Assignment 3 - IoT Communication and Protocols
 
@@ -67,8 +59,6 @@ This assignment delves into IoT communication technologies, protocols, and data 
 
 [Read Full Assignment Assignment - 3](./assignment3.md)
 
----
-
 ## Assignment 4 & 5 - Raspberry Pi and IoT Applications
 
 This assignment focuses on the Raspberry Pi as a key IoT development platform and its applications in smart cities.
@@ -83,8 +73,6 @@ This assignment focuses on the Raspberry Pi as a key IoT development platform an
 - Smart medicine dispensers and security systems
 
 [Read Full Assignment Assignment - 4 & 5](./assignment4&5.md)
-
----
 
 ## Resources
 
