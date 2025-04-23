@@ -146,6 +146,12 @@ The **Internet of Things (IoT)** is a network of interconnected physical devices
 | Perception Layer        | ← Sensors, RFID, actuators
 ```
 
+#### **IoT Architecture Diagram:**
+
+![IoT Architecture Diagram](iot-architecture.png)
+
+_Figure: A representation of the 4-layer IoT architecture._
+
 ---
 
 ### **4. Short notes**
