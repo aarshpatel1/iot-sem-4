@@ -1,4 +1,4 @@
-# Assignment - 2 (IoT Devices and Components)
+# Assignment - 2 (IoT Communication and Protocols)
 
 ## Answer the short questions:
 
