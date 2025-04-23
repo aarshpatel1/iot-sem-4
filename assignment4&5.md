@@ -1,4 +1,4 @@
-# Assignment - 2 (IoT Devices and Components)
+# Assignment - 4 & 5 (Raspberry Pi and IoT Applications and Python)
 
 ## Answer the short questions:
 
