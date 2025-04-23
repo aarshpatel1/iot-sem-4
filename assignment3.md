@@ -1,4 +1,4 @@
-# Assignment - 2 (IoT Communication and Protocols)
+# Assignment - 3 (IoT Communication and Protocols)
 
 ## Answer the short questions:
 
